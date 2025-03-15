@@ -97,6 +97,8 @@ Products are stored in a Python dictionary (`products`), where the keys are prod
 
 ## 🚀 How to Run the Project
 
-1. **Install FastAPI** and **Uvicorn**:
+1. Clone the repository:
    ```bash
-   pip install fastapi uvicorn
+   git clone https://github.com/Zenx007/API-Python-Local-Commerce.git
+   cd **directory**
+
